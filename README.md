@@ -1,6 +1,6 @@
 ## About this Repository
 
-![logo](https://www.pygame.org/images/logo_lofi.png) ![logo](https://img.icons8.com/color/64/000000/python.png) 
+![logo](https://www.pygame.org/images/logo_lofi.png)
 
 
 This repo contains my & [@JaiSh12345](https://github.com/JaiSh12345) code for Pacman:
