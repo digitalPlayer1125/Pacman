@@ -2,7 +2,7 @@
 
 ![logo](https://img.icons8.com/color/64/000000/python.png)
 
-This repo my & [@JaiSh12345](https://github.com/JaiSh12345) code for Pacman:
+This repo contains my & [@JaiSh12345](https://github.com/JaiSh12345) code for Pacman:
 
 |Directory               |Component|
 |------------------------|-----------------------------------------------|
